@@ -7,9 +7,9 @@
 ## 4. Skills:
 > ### HTML, CSS(SCSS), JS(basic), Git.
 ## 5. Code example:
-~~~
-no code(
-~~~
+`
+alert( 'Привет, мир!' );
+`
 ## 6. Job expirience:
 > ### No experience
 ## 7. Education:
